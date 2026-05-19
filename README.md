@@ -523,14 +523,4 @@ Potential future improvements include:
 - Multi-hospital benchmarking
 - Automated reporting and alerts
 
----
 
-# Author
-
-Healthcare Analytics Dashboard Project
-
----
-
-# License
-
-This project is intended for educational, analytical, and business intelligence purposes.
