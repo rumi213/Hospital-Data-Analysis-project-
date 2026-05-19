@@ -6,11 +6,6 @@ The **Hospital Operations & Patient Risk Intelligence Dashboard** is a comprehen
 
 This dashboard enables healthcare organizations to make data-driven decisions by consolidating clinical, operational, and financial KPIs into a single interactive platform.
 
-<p align="center">
-  <img src="C:\Users\Rumai\OneDrive\Pictures\Screenshots\Screenshot 2026-05-11 080523.png" width="1000"/>
-</p>
----
-
 # Table of Contents
 
 1. Introduction  
