@@ -174,7 +174,6 @@ Implement AI/ML models for:
 By implementing these recommendations, hospitals can achieve:   
 
 ✅ Improved patient outcomes
-
 ✅ Reduced readmission and mortality rates
 ✅ Better operational efficiency
 ✅ Optimized hospital resource utilization
