@@ -1,7 +1,7 @@
 # 🏥 Hospital Operations & Patient Risk Intelligence Dashboard
 
 # 📷 Dashboard Preview
-
+dashboard image.png.png
 
 ## 📌 Executive Overview
 
