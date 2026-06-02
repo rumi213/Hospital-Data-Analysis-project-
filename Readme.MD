@@ -1,5 +1,8 @@
 # 🏥 Hospital Operations & Patient Risk Intelligence Dashboard
 
+# 📷 Dashboard Preview
+
+
 ## 📌 Executive Overview
 
 This dashboard provides a comprehensive analysis of hospital operations, patient risk factors, financial performance, and healthcare efficiency metrics. It helps healthcare administrators and decision-makers monitor key performance indicators (KPIs), identify operational bottlenecks, and implement data-driven strategies to improve patient outcomes and hospital performance.
@@ -190,13 +193,6 @@ By implementing these recommendations, hospitals can achieve:
 * Healthcare KPI Monitoring
 * Predictive Analytics
 
----
-
-# 📷 Dashboard Preview
-
-![Hospital Dashboard](./dashboard.png)
-
----
 
 # 📈 Conclusion
 
