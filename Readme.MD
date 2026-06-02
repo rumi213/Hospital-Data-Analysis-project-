@@ -10,30 +10,6 @@ This dashboard enables healthcare organizations to make data-driven decisions by
 ## Dashboard Preview
 ![dashboard PReview](dashboard image.png.png)
 
-# Table of Contents
-
-1. Introduction  
-2. Project Objective  
-3. Dashboard Features  
-4. Dashboard Overview  
-5. KPI Definitions  
-6. Detailed Visual Explanations  
-7. Filters & User Interactions  
-8. Data Model & Architecture  
-9. Business Benefits  
-10. Key Insights  
-11. Technical Implementation  
-12. Suggested Enhancements  
-13. Use Cases  
-14. Conclusion  
-15. Future Scope  
-
----
-
-# 1. Introduction
-
-Modern healthcare systems generate massive amounts of operational and clinical data every day. Managing this information effectively is essential for improving patient care quality, optimizing hospital resources, reducing operational costs, and increasing overall hospital efficiency.
-
 The Hospital Operations & Patient Risk Intelligence Dashboard is designed to:
 
 - Monitor hospital performance in real time
@@ -47,7 +23,7 @@ This dashboard serves as an executive-level healthcare intelligence platform.
 
 ---
 
-# 2. Project Objective
+#  Project Objective
 
 The primary objectives of this dashboard are:
 
@@ -62,7 +38,7 @@ The primary objectives of this dashboard are:
 
 ---
 
-# 3. Dashboard Features
+# Dashboard Features
 
 ## Executive KPI Monitoring
 
@@ -125,13 +101,13 @@ Users can dynamically filter the dashboard by:
 
 ---
 
-# 4. Dashboard Overview
+#  Dashboard Overview
 
 The dashboard is divided into multiple analytical sections.
 
 ---
 
-## 4.1 Header Section
+##  Header Section
 
 The top section contains:
 
@@ -144,7 +120,7 @@ This section provides context and time-period control.
 
 ---
 
-## 4.2 Navigation Sidebar
+## Navigation Sidebar
 
 The left navigation panel contains the following modules:
 
